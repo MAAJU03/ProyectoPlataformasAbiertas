@@ -1,2 +1,3 @@
 # ProyectoPlataformasAbiertas
 Integrantes:
+Descripción:
